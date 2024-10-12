@@ -1,0 +1,1 @@
+Developed an interactive "Simon Says" game using HTML, CSS, and JavaScript. This classic memory game challenges players to repeat a sequence of colours in the correct order. The project focused on creating an engaging and visually appealing user experience, with smooth animations and responsive gameplay.
